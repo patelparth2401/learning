@@ -1,0 +1,30 @@
+.d1{
+    width: 500px;
+    background-color: rgb(7, 19, 114);
+    border: 3px solid rgb(228, 231, 39);
+    float: left;
+}
+.d2{
+    width: 300px;
+    background-color: rgb(25, 41, 163);
+    border: rgb(228, 231, 39);
+}
+.d3{
+    width: 30%;
+    background-color: rgb(68, 83, 202);
+    border: rgb(228, 231, 39);
+}
+.d4{
+    width: 30%;
+    background-color: rgb(96, 101, 141);
+    border: rgb(228, 231, 39);
+}
+.d5{
+    width: 30%;
+    background-color: rgb(249, 249, 251);
+    border: rgb(228, 231, 39);
+}
+div{
+    height: 100px;
+    margin: auto;
+}
